@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  font-family: "Roboto Mono", monospace;
+  font-family: 'Montserrat', sans-serif;
   min-height: 400px;
   background-image: url('./images/2.png');
   background-color: #000000;
@@ -54,20 +54,17 @@ label {
   color: white;
 }
 
-button {
-  margin-top: 12px;
-  padding: 4px 8px;
-  border-radius: 14px;
-  background: #fada06;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  border: #fada06;
-  cursor: pointer;
-  transition: 0.8s;
-  padding: 10px 20px;
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 5px;
+    background: #fada06;
+    cursor: pointer; 
+    transition: 0.8s;
 
-}
+  }
+
+
 
 button:hover{
    
