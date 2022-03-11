@@ -19,7 +19,7 @@
  ## Funcionalidades em desenvolvimento:
   
 + Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final.
-+ 
+
 
  ## Tecnologias utilizadas
 
@@ -43,8 +43,7 @@
 
 ## Tela da aplicação
 
- 
-![home3](https://user-images.githubusercontent.com/54418295/157926212-00e1dbd1-2770-4029-a987-e21723b874ff.png)
+
 
 
 
