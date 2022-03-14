@@ -10,9 +10,9 @@ html {
   body {
     font-family: "Roboto Mono", monospace;
     min-height: 400px;
-    background-image: url("/");
+    background-image: url("./images/home2.jpg");
     background-color: #000000;
-    background-size: cover;
+    background-size: 100vh;
     background-position: center bottom;
     background-repeat: no-repeat;
   }
