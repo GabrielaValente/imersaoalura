@@ -10,9 +10,9 @@ function Chutar() {
     resultado.innerHTML = "Ops! Você deve digitar um número de 0 a 10!";
   } else {
     if (chute > secretNumber) {
-      resultado.innerHTML = "O número secreto é menor, tente novamente";
+      resultado.innerHTML = "O número secreto é menor, tente novamente!";
     } else {
-      resultado.innerHTML = "O número secreto é maior, tente novamente";
+      resultado.innerHTML = "O número secreto é maior, tente novamente!";
     }
   }
 }
