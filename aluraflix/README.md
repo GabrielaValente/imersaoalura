@@ -1,5 +1,5 @@
 
-<h1> ⁉️ Advinhe o número secreto ✔️❌<h1>
+<h1> 🎬 GabrielaFlix - Filmes 🍿 | Séries 🎞️ <h1>
 
   
  > Status: Developing ⚠️
@@ -10,15 +10,32 @@
  ### Funcionalidades
   
 
-+ Interagir com usuário para receber os palpites.
-+ Criar a lógica por trás do "chute" com if, else if e else;
++ Inserir filmes e séries no campo de input.
++ Criar a lógica por trás para receber o filme informado e exibir a imagem na t ela.
 + Utilizar funções que interagem com a tela;
-+ Utilizar a função Math.random() do JavaScript para gerar números aleatórios;
++ Integrando funções criadas no JavaScript com o HTML que está sendo exibido na tela;
 
   
  ## Funcionalidades em desenvolvimento:
   
-+ Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final.
++ Criar um botão para remover um filme na tela
++ Além de colocar a imagem do filme, também adicionar o nome do filme e outras informações
++ Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover o filme
+
+
+  ## Ideias 
+
++ Lista de Livros
+
++ Lista de referências ou criadores de conteúdo
+
++ Lista de canais preferidos de ASMR
+
++ Lista de séries
+
++ Lista de melhores autores
+
++ Lista de receitas
 
 
  ## Tecnologias utilizadas
@@ -43,7 +60,7 @@
 
 ## Tela da aplicação
 
-![guessthenumb](https://user-images.githubusercontent.com/54418295/158238688-7bcf0a93-75ba-4ac2-9249-91cdb5a3c99a.gif)
+
 
 
 
