@@ -1,8 +1,6 @@
 
 <h1> 🎬 GabrielaFlix - Filmes 🍿 | Séries 🎞️ <h1>
 
-  
- > Status: Developing ⚠️
     
  ### Essa é uma aplicação web desenvolvida durante a Imersão da Alura. #ImersaoAlura
     
