@@ -1,8 +1,5 @@
 
 <h1> 💰 Conversor de Moedas 💸 <h1>
-
-  
- > Status: Developing ⚠️
     
  ### Essa é uma aplicação web desenvolvida durante a Imersão da Alura. #imersaoalura
     
