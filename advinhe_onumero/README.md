@@ -1,8 +1,6 @@
 
 <h1> ⁉️ Advinhe o número secreto ✔️❌<h1>
 
-  
- > Status: Developing ⚠️
     
  ### Essa é uma aplicação web desenvolvida durante a Imersão da Alura. #imersaoalura
     
@@ -16,7 +14,7 @@
 + Utilizar a função Math.random() do JavaScript para gerar números aleatórios;
 
   
- ## Funcionalidades em desenvolvimento:
+ ## Funcionalidades futuras:
   
 + Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final.
 
